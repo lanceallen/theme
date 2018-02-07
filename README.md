@@ -1,2 +1,2 @@
 # theme
-A Genesis starter theme for your next project
+A Genesis starter theme for your next WordPress website
